@@ -3,4 +3,6 @@ first
 
 My First Repository
 
-Change local
+Change Local
+
+Change Remote
